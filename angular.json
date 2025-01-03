@@ -65,6 +65,9 @@
               "buildTarget": "personal-admin:build:development"
             }
           },
+          "options": {
+            "port": 4201
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
@@ -92,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d1ccdb8d-8778-41e2-9c5b-826af6f13a4c"
   }
 }
